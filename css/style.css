@@ -8,3 +8,6 @@
 .bg-text{
     color: #E76F51;
 }
+.filter{
+    filter: grayscale(100%);
+  }
